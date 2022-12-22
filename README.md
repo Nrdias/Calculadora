@@ -1,4 +1,6 @@
+# Calculadora
 
+This repository contains the project developed in DIO's bootcamp, in the bootcamp it was made with pure JavaScript, but I tried to adapt it to TypeScript, there won't be any big differences, because it is my first project using the language, but it was a great experience (and frustrating haha) to learn some about it.
 
 # Getting Started with Create React App
 
@@ -46,6 +48,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-# Calculadora
 
-This repository contains the project developed in DIO's bootcamp, in the bootcamp it was made with pure JavaScript, but I tried to adapt it to TypeScript, there won't be any big differences, because it is my first project using the language, but it was a great experience (and frustrating haha) to learn some about it.
