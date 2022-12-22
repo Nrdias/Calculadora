@@ -6,7 +6,7 @@ const InputContainer = styled.div`
     input{
         background: #fff;
         height: 50px;
-        width: 156px;
+        width: 162px;
         margin: 2px;
         text-align: right;
         border: 1px black solid;
